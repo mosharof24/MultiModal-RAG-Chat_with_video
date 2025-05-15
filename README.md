@@ -26,5 +26,3 @@ A research prototype exploring Multimodal Retrieval-Augmented Generation (RAG) b
     LLaVA via Ollama
 
     ChromaDB
-
-    Streamlit (optional, for UI)
